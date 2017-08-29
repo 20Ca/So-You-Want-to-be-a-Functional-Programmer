@@ -2,7 +2,7 @@
 
 ### Index
 
-- Part-01
+- [Part-01](Part-01.md)
 - Part-02
 - Part-03
 - Part-04
